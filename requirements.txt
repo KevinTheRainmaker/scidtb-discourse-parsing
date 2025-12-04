@@ -1,0 +1,16 @@
+# Production dependencies for SciDTB discourse parsing
+
+# Core dependencies
+pydantic>=2.0.0
+langchain>=0.1.0
+langchain-openai>=0.0.5
+openai>=1.0.0
+
+# Data handling
+python-dotenv>=1.0.0
+
+# Logging
+rich>=13.0.0
+
+# Utilities
+typing-extensions>=4.5.0
